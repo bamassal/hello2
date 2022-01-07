@@ -9,4 +9,6 @@
 - push: 원격 저장소에 커밋을 업로드한다.
 
 
-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
+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
+
+$%%%^@#^@#%$@%3
